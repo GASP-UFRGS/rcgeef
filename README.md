@@ -17,6 +17,8 @@ Then, you compile:
 
 `cmake ../ && make`
 
+For enabling the visualization, copý the files `vis.mac` and `init_vis.mac` to the `build` folder.
+
 To run, type:
 
 `./rceegf`
